@@ -1,0 +1,12 @@
+C:\Projetos\Desafio\Catalogo.Core\obj\Debug\net6.0\Catalogo.Core.csproj.AssemblyReference.cache
+C:\Projetos\Desafio\Catalogo.Core\obj\Debug\net6.0\Catalogo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Desafio\Catalogo.Core\obj\Debug\net6.0\Catalogo.Core.AssemblyInfoInputs.cache
+C:\Projetos\Desafio\Catalogo.Core\obj\Debug\net6.0\Catalogo.Core.AssemblyInfo.cs
+C:\Projetos\Desafio\Catalogo.Core\obj\Debug\net6.0\Catalogo.Core.csproj.CoreCompileInputs.cache
+C:\Projetos\Desafio\Catalogo.Core\bin\Debug\net6.0\Catalogo.Core.deps.json
+C:\Projetos\Desafio\Catalogo.Core\bin\Debug\net6.0\Catalogo.Core.dll
+C:\Projetos\Desafio\Catalogo.Core\bin\Debug\net6.0\Catalogo.Core.pdb
+C:\Projetos\Desafio\Catalogo.Core\obj\Debug\net6.0\Catalogo.Core.dll
+C:\Projetos\Desafio\Catalogo.Core\obj\Debug\net6.0\refint\Catalogo.Core.dll
+C:\Projetos\Desafio\Catalogo.Core\obj\Debug\net6.0\Catalogo.Core.pdb
+C:\Projetos\Desafio\Catalogo.Core\obj\Debug\net6.0\ref\Catalogo.Core.dll
